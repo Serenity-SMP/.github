@@ -8,7 +8,7 @@ At Serenity SMP, we believe in the purity of Minecraft. Our commitment is to del
 
 ## Minecraft Server
 
-- **Server IP:** `serenitysmp.minecraft.pe`
+- **Server IP:** `serenitysmp.online`
 - **Port:** `19132`
 
 
@@ -17,7 +17,7 @@ At Serenity SMP, we believe in the purity of Minecraft. Our commitment is to del
 Join our Discord community to connect with fellow players and stay updated!
 
 
-[![Discord Server](https://img.shields.io/discord/1153057522681389090?color=7289da&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/jfAN29c3TV)
+[![Discord Server](https://img.shields.io/discord/1153057522681389090?color=7289da&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/6TvNJkdPEA)
 
 
 ## Explore, Build, Survive - Serenity Awaits!
